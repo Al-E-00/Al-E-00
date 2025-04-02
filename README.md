@@ -2,8 +2,6 @@
 
 **`Full-Stack Developer`**
 
-I’m a full-stack web developer who grew up on the tiny island of Ponza, lived in Rome for three years, and now calls the Netherlands home.
-
 ---
 
 ### 🧰 Languages and Tools
