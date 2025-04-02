@@ -1,8 +1,8 @@
 # 🏝️ [Alessio Mazzella](https://alessio-m.vercel.app/)
 
-**`Full-Stack Developer`**
 
----
+**Full-Stack Developer**
+#
 
 ### 🧰 Languages and Tools
 
